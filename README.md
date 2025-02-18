@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahiraj9525
+- 👋 Hi, I’m @Raushan_kumar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-rahiraj9525/rahiraj9525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Raushan_kumar/ Raushan_kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
